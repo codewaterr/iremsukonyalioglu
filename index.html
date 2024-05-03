@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Özgeçmiş</title>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+
+
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #eeebed;
+      color: #444;
+    }
+    .navbar {
+      background-color: #343a40 !important;
+    }
+    .navbar-brand {
+      font-weight: 700;
+      font-size: 1.5rem;
+    }
+    .navbar-nav .nav-link {
+      color: #fff !important;
+    }
+    .resume-section {
+      padding: 50px 0;
+    }
+    .resume-section h2 {
+      color: #8b5d92;
+      margin-bottom: 30px;
+    }
+    .resume-section p {
+      font-size: 1.1rem;
+    }
+    .bg-light {
+      background-color: #fff !important;
+    }
+    footer {
+      background-color: #463850;
+      color: #fff;
+      padding: 20px 0;
+    }
+    footer p {
+      margin: 0;
+    }
+    .btn-primary {
+      background-color: #8b5d92;
+      border-color: #8b5d92;
+    }
+    .btn-primary:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Özgeçmişim</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#about">Kişisel Profil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#experience">Kariyer Özeti</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#education">Eğitim Geçmişi</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#s">Sertifikalar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">İletişim</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.linkedin.com/in/iremsu-konyal%C4%B1o%C4%9Flu-793bb4234/">LinkedIn</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hakkımda Bölümü -->
+  <section id="about" class="resume-section">
+    <div class="container">
+      <h2>Kişisel Profil</h2>
+      <p> Merhaba,
+
+        Benim adım İremsu Konyalıoğlu 25 yaşındayım ve Ankara'da yaşıyorum. İzmir Dokuz Eylül Üniversitesinde Şehir ve Bölge Planlama bölümünde lisansımı tamamladım.
+        
+        Kendimi özgüvenli, çözüm odaklı ve takım çalışmasına uyumlu biri olarak tanımlarım. Yeniliklere açık olmak ve sürekli öğrenmeye istekli olmak benim için önemlidir. Ayrıca, iletişim becerilerim güçlüdür ve karmaşık konuları anlaşılır bir şekilde ifade etme konusunda yetenekliyim.
+        
+        Proaktif yaklaşımım, staj deneyimler ve okulda üstlendiğim görevlerin bana kattıkları sayesinde güçlü problem çözme becerilerine sahibim. Yeniliklerin peşinden giderek kendimi sürekli geliştirmek başlıca hedeflerimdendir. İçinde bulunduğum projelerde ve çalışma ortamlarında ekip çalışmasına önem veririm. Becerilerimi kullanabileceğim ve daha da geliştirebileceğim bir pozisyonda çalışmak istiyorum.
+        
+        Profilim hakkında daha fazla bilgi edinmek için lütfen LinkedIn veya Kişisel Web Sitesi Linki'ni ziyaret edin.</p>
+    </div>
+  </section>
+
+  <!-- Deneyimler Bölümü -->
+  <section id="experience" class="resume-section bg-light">
+    <div class="container">
+      <h2>Kariyer Özeti</h2>
+      <div class="row">
+        <div class="col-md-10">
+          <p>Şehir Plancısı – ÇEVRE ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ İL MÜDÜRLÜĞÜ 
+            07.2022 – 08.2022 | Adana, Turkey</p>  
+          <p>Saha Gönüllüsü – TÜBİTAK 
+            02.2022 – 06.2022 | İzmir, Turkey</p>
+          <p>Şehir Plancısı – SEYHAN BELEDİYESİ 
+            08.2021 – 08.2021 | Adana, Turkey</p>
+          <p>Araştırma Stajyeri – KUŞADASI BELEDİYESİ 
+            07.2019 – 08.2019 | Aydın, Turkey</p>
+          <p>Şehir Plancısı – PLANART TASARIM ŞEHİR PLANLAMA LTD. ŞTİ 
+            01.2018 – 02.2018 | Adana, Turkey</p>
+        </p>
+  </section>
+
+  <!-- Eğitim Bölümü -->
+  <section id="education" class="resume-section">
+    <div class="container">
+        <h2>Eğitim Geçmişi</h2>
+        <div class="row">
+          <div class="col-md-11">
+            <p>Tıbbi Dokümantasyon ve Sekreterlik – İSTANBUL ÜNİVERSİTESİ / 2023-2025 
+            Ön Lisans Eğitimi – İstanbul TÜRKİYE</p>  
+            <p>Web Tasarımı ve Kodlama – ANADOLU ÜNİVERSİTESİ / 2021-2024 
+            Ön Lisans Eğitimi – Eskişehir Türkiye</p>
+            <p>Şehir ve Bölge Planlama – DOKUZ EYLÜL ÜNİVERSİTESİ / 2017-2022 
+            Lisans Eğitimi – GPA : 2,72/4,00 – İzmir TÜRKİYE</p>
+            <p>İSMAİL SAFA ÖZLER ANADOLU LİSESİ / 2013-2017 
+            GPA: 87,06/100 – Adana Türkiye</p>
+          </p>
+  </section>
+  
+  <!-- Deneyimler Bölümü -->
+  <section id="s" class="resume-section bg-light">
+    <div class="container">
+      <h2>Sertifikalar</h2>
+      <div class="row">
+        <div class="col-md-10">
+          <p>Tübitak 1001 Sayılı Proje 
+             Saha Gönüllüsü Katılım Belgesi | 2022</p>  
+          <p>Basketbol Turnuvası | Gümüş Madalya 
+            Dokuz Eylül Üniversitesi | 2018-2019/p>
+          <p>İşaret Dili
+            Halk Eğitim Merkezi | 2018</p>
+          <p>Minikler Stilize Dalda Halk Oyunu | Altın Madalya 
+            Türkiye Birincisi| 2010</p>
+        </p>
+  </section>
+
+  <!-- İletişim Bölümü -->
+  <section id="contact" class="resume-section bg-light">
+    <div class="container">
+      <h2>İletişim</h2>
+      <div class="row">
+        <div class="col-md-6">
+          <p>Adres: Etimesgut/ANKARA, TÜRKİYE</p>
+          <p>Telefon: 0553 120 2698</p>
+          <p>E-posta: su.konyalioglu99@gmail.com</p>
+        </div>
+        <div class="col-md-6">
+          <form>
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="İsim">
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" placeholder="E-posta">
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" rows="5" placeholder="Mesajınız"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Gönder</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright © 2024</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
